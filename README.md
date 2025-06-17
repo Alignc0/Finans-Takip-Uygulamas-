@@ -42,6 +42,14 @@ Bu projeyi **Ali** olarak hem yazılım bilgim hem de prompt mühendisliği tekn
     ```
 
 ---
+📸 🔴Görüntüler:
+![Ekran Alıntısı](https://github.com/user-attachments/assets/7411031e-c858-4ed3-b1e4-c4b8b2df1da4)
+![Ekran Alıntısı4](https://github.com/user-attachments/assets/5d060ec9-4285-4a05-9140-599aa4efcbd8)
+![Ekran Alıntısı3](https://github.com/user-attachments/assets/993b6389-56b3-41f2-8e95-336a6afdb139)
+![Ekran Alıntısı1](https://github.com/user-attachments/assets/32e3ebb3-fe6f-44d3-8c13-1dbf631145b1)
+
+
+
 
 🧑‍💻 İletişim
 
